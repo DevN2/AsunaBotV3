@@ -6,7 +6,7 @@
 	"maxLimit": 30,
 	"ownerList": ["6287869456991@s.whatsapp.net", "6282126688740@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.xyz",
-    "imgUrl": "./asuna.jpg",
+    "imgUrl": "https://cdn.myanimelist.net/images/characters/15/397876.webp?_gl=1*ejqu76*_ga*MjIwMzI5ODg5LjE2MjkwNDAxNzE.*_ga_26FEP9527K*MTYyOTA0MDE4Ni4xLjEuMTYyOTA0MDIxNS4zMQ..",
 	"pack": "AsunaBot",
 	"author": "wa.me/6287723154281"
 }
