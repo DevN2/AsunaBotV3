@@ -1,0 +1,12 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "bot", 
+	"zeksKey": "3k95xMizHeMDc565zlqM5X6uqTP",
+	"autoRead": true,
+	"maxLimit": 30,
+	"ownerList": ["6287869456991@s.whatsapp.net", "6282126688740@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.xyz",
+    "imgUrl": "https://swordartonline.fandom.com/wiki/Yuuki_Asuna",
+	"pack": "AsunaBot",
+	"author": "wa.me/6287723154281"
+}
