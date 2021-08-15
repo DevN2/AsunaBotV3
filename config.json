@@ -6,7 +6,7 @@
 	"maxLimit": 30,
 	"ownerList": ["6287869456991@s.whatsapp.net", "6282126688740@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.xyz",
-    "imgUrl": "https://api.zeks.xyz/logo.jpg",
+    "imgUrl": "./asuna.jpg",
 	"pack": "AsunaBot",
 	"author": "wa.me/6287723154281"
 }
